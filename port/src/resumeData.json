@@ -1,0 +1,149 @@
+{
+  "work": [
+    {
+      "id": "0",
+      "company": "Nzasa Secondary School",
+      "position": "Tutor",
+      "website": "",
+      "timeLine": "August 2016 - September 2016",
+      "summary":
+        "Taught  Algebra for two hours a week. Helped students individually on how to approach their in-class assignments. Most students scored above average in their quizzes and exams.",
+      "highlights": []
+    },
+
+    {
+      "id": "1",
+      "company": "Undi Consulting Group",
+      "position": "Software Engineer Intern",
+      "website": "undi.co.tz",
+      "timeLine": "October 2016 - January 2017",
+      "summary":
+        "IT assistant at the company helping with software configuration and installation,Network Admin, and Computer Maintenance. currently, in the team to redesign the company's website."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "0",
+      "name": "Alcal Group Website",
+      "webLink": "https://alcalgroup.com",
+      "company": "Paid Project",
+      "timeLine": "September 2017",
+      "summary":
+        "Built a a Web App  using ReactJS,replacing the older version which used wordpress tamplates. The new website is responsive and more attractive."
+    },
+    {
+      "id": "1",
+      "name": "Hackernews Web App",
+      "webLink": "https://hacker.alcalgroup.com",
+      "timeLine": "October 2017-",
+
+      "company": "Personal Project",
+      "timeLine": "August 2017",
+      "summary":
+        "Built a Hackernews wep app that let users: search for the news from Hackernews , and view a list of  top news by default. Used ReactJS, HTML, and CSS to build the app. Performed integrational and unit test to elimante bugs in my application."
+    },
+    {
+      "id": "2",
+      "name": "Undi consulting group",
+      "webLink": "https://tonny.alcalgroup.com",
+      "company": "Paid Project",
+      "timeLine": "October 2017-",
+      "summary":
+        "currently, redesigning the website of Undi Consulting,making it more responsive,fast and more dynamic than the current website. Using ReactJs, HTML, and CSS to build the app."
+    },
+    {
+      "id": "3",
+      "name": "Portfolio Web App",
+      "company": "Personal Project",
+      "timeLine": "July 2017",
+      "summary":
+        "Built my portfoliio web application that shows my various accomplishments. Used JavaScript, react, JSON, HTML, and CSS to build it. Wrote test cases using jest to make my applicaton more robust."
+    },
+
+    {
+      "id": "4",
+      "name": "Shell",
+      "company": "Operating Systems, Univeristé de Tlemcen",
+      "timeLine": "Jan 2016 - April 2016",
+      "summary":
+        "Built a Unix shell that interpreted a set of given command lines. Implemented pipes, redirections, and background that enabled the shell to send the output of oneprogram to another program for further processing. Passed many test cases and resulted into a robust and reliable shell."
+    }
+  ],
+
+  "edu": [
+    {
+      "id": "0",
+      "institution": "Université de Tlemcen",
+      "major": "Computer Science",
+      "degree": "Bachelor of Science in Computer Science",
+      "endDate": "June 2016",
+      "classes":
+        "UnderGraduate Course work: Operating Systems, Software Engineering, Programming Languages, Algorithms and DataStructures, and Database management."
+    }
+  ],
+
+  "skills": [
+    {
+      "lang": "HTML",
+      "fluency": "90%"
+    },
+    {
+      "lang": "CSS",
+      "fluency": "80%"
+    },
+    {
+      "lang": "JavaScript",
+      "fluency": "80%"
+    },
+    {
+      "lang": "Java",
+      "fluency": "90%"
+    },
+    {
+      "lang": "C/C++",
+      "fluency": "70%"
+    },
+
+    {
+      "lang": "React",
+      "fluency": "70%"
+    },
+    {
+      "lang": "NodeJS",
+      "fluency": "70%"
+    },
+    {
+      "lang": "Mysql",
+      "fluency": "85%"
+    },
+    {
+      "lang": "Git",
+      "fluency": "65%"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Swahili",
+      "fluency": "95%"
+    },
+    {
+      "language": "English",
+      "fluency": "85%"
+    },
+    {
+      "language": "French",
+      "fluency": "51%"
+    }
+  ],
+
+  "activities": [
+    {
+      "id": "0",
+      "firstActivity": "Running and other physical activities "
+    }
+  ],
+
+  "references": []
+}
