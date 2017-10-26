@@ -55,10 +55,11 @@
     {
       "id": "3",
       "name": "Portfolio Web App",
+      "webLink": "https://edwin.alcalgroup.com",
       "company": "Personal Project",
       "timeLine": "July 2017",
       "summary":
-        "Built my portfoliio web application that shows my various accomplishments. Used JavaScript, react, JSON, HTML, and CSS to build it. Wrote test cases using jest to make my applicaton more robust."
+        "Built my portfoliio web application that shows my various accomplishments. Used JavaScript, react, JSON, HTML, and CSS to build it. Wrote test cases using jest to make my applicaton more robust. NB: I have two portfolios; this one and another below on the link"
     },
 
     {

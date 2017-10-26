@@ -24,7 +24,7 @@ class App extends Component {
           <Intro />
         </div>
         <Button data={resumeData} />
-
+        <br />
         <Footer />
       </div>
     );

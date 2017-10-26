@@ -6,16 +6,22 @@ import "./css/w3.css";
 import resumeData from "./resumeData.json";
 import Info from "./components/Info";
 import App from "./components/App";
+import Project from "./components/Project";
 import registerServiceWorker from "./registerServiceWorker";
 const Root = () => {
   return (
     <BrowserRouter>
       <div>
         <Route exact path="/" component={App} />
-        <Route path="/info" component={Info} />
+        <Route exact path="/info" render={() => <Info data={resumeData} />} />
+        <Route
+          exact
+          path="/project"
+          render={() => <Project data={resumeData} />}
+        />
       </div>
     </BrowserRouter>
   );
 };
-ReactDOM.render(<Root data={resumeData} />, document.getElementById("root"));
+ReactDOM.render(<Root />, document.getElementById("root"));
 registerServiceWorker();

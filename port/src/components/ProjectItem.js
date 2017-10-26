@@ -3,7 +3,11 @@ import React from "react";
 const ProjectItem = props => {
   const webLink = props.project.webLink ? (
     <p>
-      Please click it <a href={props.project.webLink}>here</a> to view it.
+      Please click it{" "}
+      <a href={props.project.webLink}>
+        <b>here</b>
+      </a>{" "}
+      to view it.
     </p>
   ) : null;
   return (

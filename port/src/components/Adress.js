@@ -4,6 +4,7 @@ const Adress = props => {
   return (
     <div>
       <p>
+        <br />
         <i className="fa fa-user w3-margin-right w3-large w3-text-red" />Edwin
         Ismail
       </p>
