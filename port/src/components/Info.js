@@ -30,7 +30,7 @@ const Info = props => {
 
         <div
           className="w3-half w3-container w3-card-2 w3-white w3-margin-bottom"
-          style={{ height: "1144px" }}
+          style={{ height: "1125px" }}
         >
           <div className="w3-row-padding">
             <LeftSkills skills={props.data.skills} />

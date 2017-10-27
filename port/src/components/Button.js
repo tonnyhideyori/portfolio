@@ -24,12 +24,14 @@ const Button = props => {
           </b>
         </button>
       </Link>
-      <button
-        className="w3-bar-item w3-btn w3-button w3-red w3-round-xxlarge"
-        style={{ width: "200px", margin: "5px", height: "90px" }}
-      >
-        <b> HIRE ME!</b>
-      </button>
+      <a target="_blank" href="https://contact-fed.herokuapp.com/">
+        <button
+          className="w3-bar-item w3-btn w3-button w3-red w3-round-xxlarge"
+          style={{ width: "200px", margin: "5px", height: "90px" }}
+        >
+          <b> HIRE ME!</b>
+        </button>
+      </a>
     </div>
   );
 };

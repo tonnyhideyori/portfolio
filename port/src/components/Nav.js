@@ -42,7 +42,9 @@ const Nav = () => {
                 </Link>
               </li>
               <li>
-                <a href="#">Hire me!</a>
+                <a target="_blank" href="https://contact-fed.herokuapp.com/">
+                  Hire me!
+                </a>
               </li>
             </ul>
           </div>
