@@ -59,7 +59,7 @@
       "summary":
         "Built my portfoliio web application that shows my various accomplishments. Used JavaScript, react, JSON, HTML, and CSS to build it. Wrote test cases using jest to make my applicaton more robust. NB: I have two portfolios; this one and another below on the link"
     },
-<<<<<<< HEAD
+
     {
       "id": "4",
       "name": "Survey Web App",
@@ -71,18 +71,16 @@
     },
 
     {
-=======
-{
-  "id": "4",
-  "name": "Survey Web App",
-  "webLink": "https://evening-caverns-69584.herokuapp.com",
-  "company": "Personal Project",
-  "timeLine": "November 2017",
-  "summary": "Survey app enable a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also i used mixture of two different CSS frameworks i.e bootstrap and materializeCSS."
-},
+      "id": "4",
+      "name": "Survey Web App",
+      "webLink": "https://evening-caverns-69584.herokuapp.com",
+      "company": "Personal Project",
+      "timeLine": "November 2017",
+      "summary":
+        "Survey app enable a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also i used mixture of two different CSS frameworks i.e bootstrap and materializeCSS."
+    },
 
     {
->>>>>>> aaab0e11af79c692e5ee8932fc3804d957fa4474
       "id": "5",
       "name": "Shell",
       "company": "Operating Systems, Univeristé de Tlemcen",
