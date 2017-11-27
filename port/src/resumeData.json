@@ -20,6 +20,14 @@
       "summary":
         "IT assistant at the company helping with software configuration and installation,Network Admin, and Computer Maintenance. currently, in the team to redesign the company's website."
     }
+    {
+      "id":2,
+      "company":"Tujenge Technologies Limited",
+      "position":"Web developer",
+      "website":"tujegetech.co.tz",
+      "timeline":"February 2017 - Now",
+      "summary":" Member of the team  building a University communications system (DAAS) and other various project. Visit https://tujengetech.co.tz to see more details"
+    }
   ],
 
   "projects": [
