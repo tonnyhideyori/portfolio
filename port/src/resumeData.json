@@ -15,7 +15,7 @@
       "id": "1",
       "company": "Undi Consulting Group",
       "position": "Software Engineer Intern",
-      "website": "undi.co.tz",
+      "website": "https://undi.co.tz",
       "timeLine": "October 2016 - January 2017",
       "summary":
         "IT assistant at the company helping with software configuration and installation,Network Admin, and Computer Maintenance. currently, in the team to redesign the company's website."
@@ -24,7 +24,7 @@
       "id":2,
       "company":"Tujenge Technologies Limited",
       "position":"Web developer",
-      "website":"tujegetech.co.tz",
+      "webLink":"https://tujegetech.co.tz",
       "timeline":"February 2017 - Now",
       "summary":" Member of the team  building a University communications system (DAAS) and other various project. Visit https://tujengetech.co.tz to see more details"
     }
@@ -61,7 +61,7 @@
     {
       "id": "3",
       "name": "Portfolio Web App",
-      "webLink": "https://edwin.alcalgroup.com",
+      "webLink": "https://pro.alcalgroup.com",
       "company": "Personal Project",
       "timeLine": "July 2017",
       "summary":
@@ -77,17 +77,6 @@
       "summary":
         "Survey app enables a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also  mixture of two different CSS frameworks were used i.e bootstrap and materializeCSS."
     },
-
-    {
-      "id": "4",
-      "name": "Survey Web App",
-      "webLink": "https://evening-caverns-69584.herokuapp.com",
-      "company": "Personal Project",
-      "timeLine": "November 2017",
-      "summary":
-        "Survey app enable a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also i used mixture of two different CSS frameworks i.e bootstrap and materializeCSS."
-    },
-
     {
       "id": "5",
       "name": "Shell",
