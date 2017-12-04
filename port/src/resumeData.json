@@ -4,7 +4,7 @@
       "id": "0",
       "company": "Nzasa Secondary School",
       "position": "Tutor",
-      "website": "",
+      "webLink": "",
       "timeLine": "August 2016 - September 2016",
       "summary":
         "Taught  Algebra for two hours a week. Helped students individually on how to approach their in-class assignments. Most students scored above average in their quizzes and exams.",
@@ -15,18 +15,19 @@
       "id": "1",
       "company": "Undi Consulting Group",
       "position": "Software Engineer Intern",
-      "website": "https://undi.co.tz",
+      "webLink": "https://www.undi.co.tz",
       "timeLine": "October 2016 - January 2017",
       "summary":
         "IT assistant at the company helping with software configuration and installation,Network Admin, and Computer Maintenance. currently, in the team to redesign the company's website."
-    }
+    },
     {
-      "id":2,
-      "company":"Tujenge Technologies Limited",
-      "position":"Web developer",
-      "webLink":"https://tujegetech.co.tz",
-      "timeline":"February 2017 - Now",
-      "summary":" Member of the team  building a University communications system (DAAS) and other various project. Visit https://tujengetech.co.tz to see more details"
+      "id": 2,
+      "company": "Tujenge Technologies Limited",
+      "position": "Web developer",
+      "webLink": "https://tujengetech.co.tz",
+      "timeLine": "February 2017 - Now",
+      "summary":
+        " Member of the team  building a University communications system (DAAS) and other various mobile and web applications project."
     }
   ],
 
@@ -77,6 +78,7 @@
       "summary":
         "Survey app enables a client to make a survey campaigns and monitors the results.Built  survey App to show achievement in full stack web deveopment. Used JavaScript libraries like NodeJs for back-end and ReactJs with Redux for front-end.Also  mixture of two different CSS frameworks were used i.e bootstrap and materializeCSS."
     },
+
     {
       "id": "5",
       "name": "Shell",
@@ -110,11 +112,11 @@
     },
     {
       "lang": "JavaScript",
-      "fluency": "75%"
+      "fluency": "85%"
     },
     {
       "lang": "Java",
-      "fluency": "70%"
+      "fluency": "80%"
     },
     {
       "lang": "C/C++",
@@ -123,11 +125,11 @@
 
     {
       "lang": "ReactJS",
-      "fluency": "68%"
+      "fluency": "79%"
     },
     {
       "lang": "NodeJS",
-      "fluency": "55%"
+      "fluency": "70%"
     },
     {
       "lang": "Mysql",
@@ -135,6 +137,10 @@
     },
     {
       "lang": "Git",
+      "fluency": "70%"
+    },
+    {
+      "lang": "MongoDB",
       "fluency": "70%"
     }
   ],
