@@ -91,13 +91,21 @@
 
   "edu": [
     {
-      "id": "0",
+      "id": "1",
       "institution": "Université de Tlemcen",
       "major": "Computer Science",
       "degree": "Bachelor of Science in Computer Science",
       "endDate": "June 2016",
       "classes":
         "UnderGraduate Course work: Operating Systems, Software Engineering, Programming Languages, Algorithms and DataStructures, and Database management."
+    },
+    {
+      "id": "0",
+      "institution": "Universität Passau",
+      "major": "Computer Science",
+      "degree": "Master of Science in Computer Science",
+      "endDate": " 2020",
+      "classes": "UnderGraduate Course work: Text mining, Cloud computing, Programming Languages, Machine learing,IT security,wireless security, and Smart systems."
     }
   ],
 
@@ -116,7 +124,7 @@
     },
     {
       "lang": "Java",
-      "fluency": "80%"
+      "fluency": "75%"
     },
     {
       "lang": "C/C++",
@@ -141,7 +149,7 @@
     },
     {
       "lang": "MongoDB",
-      "fluency": "70%"
+      "fluency": "50%"
     }
   ],
 
@@ -156,7 +164,7 @@
     },
     {
       "language": "French",
-      "fluency": "51%"
+      "fluency": "61%"
     }
   ],
 
