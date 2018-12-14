@@ -9,9 +9,11 @@
     "react-scripts": "1.0.14"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix port && npm run build --prefix port"
     "eject": "react-scripts eject"
   }
 }
